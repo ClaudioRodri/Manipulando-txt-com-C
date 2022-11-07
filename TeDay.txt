@@ -1,0 +1,212 @@
+Temperatura: 109
+Data: Thu Jul 29 16:01:26 2021
+
+
+Temperatura: 146
+Data: Thu Jul 29 16:01:49 2021
+
+
+Temperatura: 192
+Data: Thu Jul 29 16:02:18 2021
+
+
+Temperatura: 186
+Data: Thu Jul 29 16:10:54 2021
+
+
+Temperatura: 162
+Data: Thu Jul 29 16:10:52 2021
+
+
+Temperatura: 312
+Data: Thu Jul 29 16:10:53 2021
+
+
+Temperatura: 77
+Data: Thu Jul 29 16:22:02 2021
+
+
+Temperatura: 492
+Data: Thu Jul 29 16:22:04 2021
+
+
+Temperatura: 105
+Data: Thu Jul 29 16:22:06 2021
+
+
+Temperatura: 455
+Data: Thu Jul 29 16:22:07 2021
+
+
+Temperatura: 68
+Data: Thu Jul 29 16:22:08 2021
+
+
+Temperatura: 426
+Data: Thu Jul 29 16:22:09 2021
+
+
+Temperatura: 186
+Data: Thu Jul 29 16:22:10 2021
+
+
+Temperatura: 248
+Data: Thu Jul 29 16:46:40 2021
+
+
+Temperatura: 416
+Data: Thu Jul 29 16:46:25 2021
+
+
+Temperatura: 417
+Data: Thu Jul 29 16:46:26 2021
+
+
+Temperatura: 145
+Data: Thu Jul 29 16:46:27 2021
+
+
+Temperatura: 456
+Data: Thu Jul 29 16:46:28 2021
+
+
+Temperatura: 457
+Data: Thu Jul 29 16:46:29 2021
+
+
+Temperatura: 270
+Data: Thu Jul 29 16:46:30 2021
+
+
+Temperatura: 145
+Data: Thu Jul 29 16:46:31 2021
+
+
+Temperatura: 131
+Data: Thu Jul 29 16:46:32 2021
+
+
+Temperatura: 116
+Data: Thu Jul 29 16:46:33 2021
+
+
+Temperatura: 248
+Data: Thu Jul 29 16:46:34 2021
+
+
+Temperatura: 151
+Data: Thu Jul 29 16:46:35 2021
+
+
+Temperatura: 460
+Data: Thu Jul 29 16:46:36 2021
+
+
+Temperatura: 193
+Data: Thu Jul 29 16:46:37 2021
+
+
+Temperatura: 442
+Data: Thu Jul 29 16:46:39 2021
+
+
+Temperatura: 103
+Data: Thu Jul 29 16:48:22 2021
+
+
+Temperatura: 468
+Data: Thu Jul 29 16:48:23 2021
+
+
+Temperatura: 202
+Data: Thu Jul 29 16:48:24 2021
+
+
+Temperatura: 182
+Data: Thu Jul 29 16:48:25 2021
+
+
+Temperatura: 215
+Data: Thu Jul 29 16:48:26 2021
+
+
+Temperatura: 100
+Data: Thu Jul 29 16:48:27 2021
+
+
+Temperatura: 458
+Data: Thu Jul 29 16:48:29 2021
+
+
+Temperatura: 408
+Data: Thu Jul 29 16:48:30 2021
+
+
+Temperatura: 404
+Data: Thu Jul 29 16:48:31 2021
+
+
+Temperatura: 208
+Data: Thu Jul 29 16:48:33 2021
+
+
+Temperatura: 479
+Data: Thu Jul 29 16:48:34 2021
+
+
+Temperatura: 463
+Data: Thu Jul 29 16:48:36 2021
+
+
+Temperatura: 217
+Data: Thu Jul 29 16:48:37 2021
+
+
+Temperatura: 310
+Data: Thu Jul 29 16:48:40 2021
+
+
+Temperatura: 357
+Data: Thu Jul 29 16:48:41 2021
+
+
+Temperatura: 159
+Data: Thu Jul 29 16:48:42 2021
+
+
+Temperatura: 76
+Data: Thu Jul 29 16:48:43 2021
+
+
+Temperatura: 367
+Data: Thu Jul 29 16:48:44 2021
+
+
+Temperatura: 240
+Data: Thu Jul 29 16:48:45 2021
+
+
+Temperatura: 380
+Data: Thu Jul 29 16:48:46 2021
+
+
+Temperatura: 189
+Data: Thu Jul 29 16:48:47 2021
+
+
+Temperatura: 327
+Data: Thu Jul 29 16:48:49 2021
+
+
+Temperatura: 270
+Data: Thu Jul 29 16:48:50 2021
+
+
+Temperatura: 404
+Data: Thu Jul 29 16:48:51 2021
+
+
+Temperatura: 411
+Data: Thu Jul 29 16:48:52 2021
+
+
